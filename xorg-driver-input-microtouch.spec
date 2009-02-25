@@ -1,3 +1,4 @@
+# http://lists.x.org/archives/xorg-devel/2009-February/000220.html
 Summary:	X.org input driver for MicroTouch devices
 Summary(pl.UTF-8):	Sterownik wejściowy X.org dla urządzeń MicroTouch
 Name:		xorg-driver-input-microtouch
