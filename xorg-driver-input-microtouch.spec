@@ -3,7 +3,7 @@ Summary:	X.org input driver for MicroTouch devices
 Summary(pl.UTF-8):	Sterownik wejściowy X.org dla urządzeń MicroTouch
 Name:		xorg-driver-input-microtouch
 Version:	1.2.0
-Release:	4
+Release:	5
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/driver/xf86-input-microtouch-%{version}.tar.bz2
